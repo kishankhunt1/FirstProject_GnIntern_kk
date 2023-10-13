@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.ml-2{
+   margin-left: 20px; 
+}
+
+
+#myTable input[type="checkbox"] {
+    display: none;
+    background-color:black;
+}
+
+.google-font {
+    font-family: 'Roboto Slab', serif;
+}

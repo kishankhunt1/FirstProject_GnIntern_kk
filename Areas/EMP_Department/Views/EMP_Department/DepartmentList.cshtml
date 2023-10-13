@@ -1,0 +1,164 @@
+﻿@{
+    ViewData["Title"] = "DepartmentList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using System.Data;
+@using FirstProject.Areas.EMP_Department.Models;
+@model FirstProject.Areas.EMP_Department.Models.EMP_DepartmentModel;
+
+<section class="section">
+    <div class="d-flex row">
+        <div class="col-10">
+            <p class="fs-2 fw-bold">Department</p>
+        </div>
+        <div class="col-2">
+            <a class="btn btn-success" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add"><i class="bi bi-plus-lg"></i> Add Department</a>
+        </div>
+        <hr class="mb-3" />
+    </div>
+
+    <div class="">
+        <partial name="_FilterDepartment" />
+    </div>
+
+
+    <hr class="" />
+
+    <div class="text-end">
+        <button class="btn btn-danger mb-5" id="hideButton">Delete Multiple</button>
+        <button class="btn btn-danger mb-5" id="btnDelete">Delete Selected</button>
+    </div>
+
+
+    <table class=" table table-hover table-striped" id="myTable">
+        <thead>
+            <tr>
+                <th class="text-center">Department Name</th>
+                <th class="text-center">Created</th>
+                <th class="text-center">Modified</th>
+                <th class="text-center">Action</th>
+                <th><input type="checkbox" class="form-check-input" id="SelectAll" name="SelectAll" /></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (EMP_DepartmentModel dr in ViewBag.Department)
+            {
+                <tr>
+                    <td class="text-center">
+                        @dr.DepartmentName.ToString()
+                    </td>
+                    <td class="text-center">
+                        @Convert.ToDateTime(dr.Created).ToString("dd-MM-yyyy")
+                    </td>
+                    <td class="text-center">
+                        @Convert.ToDateTime(dr.Modified).ToString("dd-MM-yyyy")
+                    </td>
+                    <td class="text-center">
+                        <a class="btn btn-secondary m-2" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))">
+
+                            <i class="bi bi-pencil-square"></i>
+                        </a>
+                        <a class="btn btn-danger m-2" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Delete" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))" onclick="return confirm('Are You sure delete it!!!')">
+                            <i class="bi bi-trash-fill"></i>
+                        </a>
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" id="SelectOne" name="SelectOne" value="@dr.DepartmentID" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
+
+
+
+@section scripts{
+    @*<---------- Data table script start ---------->*@
+    <script>
+        $(document).ready(function () {
+            $("#myTable").DataTable({
+                "ordering": true,
+                'columnDefs': [{
+                    'targets': [3, 4], /* column index */
+                    'orderable': false, /* true or false */
+                }]
+            });
+        });
+    </script>
+    @*<---------- Data table script end ---------->*@
+
+
+    @*<---------- show/hide checkbox script start ---------->*@
+    <script>
+        // Get references to the table and button
+        const myTable = document.getElementById("myTable");
+        const hideButton = document.getElementById("hideButton");
+
+        // Add a click event listener to the button
+        hideButton.addEventListener("click", function () {
+            // Get all checkboxes in the table
+            const checkboxes = myTable.querySelectorAll("input[type='checkbox']");
+
+            // Toggle the display property of the checkboxes
+            checkboxes.forEach((checkbox) => {
+                checkbox.style.display = (checkbox.style.display === "none") ? "block" : "none";
+            });
+        });
+    </script>
+    @*<---------- show/hide checkbox script end ---------->*@
+
+
+    @*<---------- select all check box script start ---------->*@
+    <script>
+        $('#SelectAll').on('click', function () {
+            let checkboxes = document.getElementsByTagName('input');
+            let val = null;
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].type === 'checkbox') {
+                    if (val == null) {
+                        val = checkboxes[i].checked;
+                    }
+                    else {
+                        checkboxes[i].checked = val;
+                    }
+                }
+            }
+        })
+    </script>
+    @*<---------- select all check box script end ---------->*@
+
+
+    @*<---------- tack selected checkbox values script starts ---------->*@
+    <script>
+        $('#btnDelete').on('click', function () {
+            debugger;
+            let val = [];
+            console.log(val);
+            $("input[name='SelectOne']:checked").each(function () {
+                val.push($(this).val());
+            });
+
+            $.ajax({
+                type: 'POST',
+                url: '/EMP_Department/DeleteMultiple',
+                data: { 'Ids': val },
+                success: function (response) {
+                    if (response == 'success') {
+                        location.reload();
+                    }
+                },
+                error: function () {
+
+                }
+            })
+        });
+    </script>
+    @*<---------- tack selected checkbox values script end ---------->*@
+
+}
+
+
+

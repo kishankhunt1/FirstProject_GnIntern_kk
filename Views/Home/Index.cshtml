@@ -1,0 +1,239 @@
+﻿@using System.Data;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model FirstProject.Models.Viewmodel.DataTable_ViewModel;
+<section class="section dashboard">
+
+    <div class="pagetitle mb-3">
+        <span class="fs-3">Dashboard</span>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li class="breadcrumb-item active">Dashboard</li>
+            </ol>
+        </nav>
+    </div>
+
+
+
+    <!---------- Statistics Start ---------->
+    <div class="pt-3">
+        <span><i class="bi bi-clipboard-data fs-4 fw-bold"></i>  <span class="google-font fs-5">Statistics</span></span>
+    </div>
+    <hr />
+    <div class="row">
+        @foreach (DataRow dr1 in Model.DataTable1.Rows)
+        {
+            <div class="row d-flex">
+                <!-- Country Card -->
+                <div class="col-xxl-3 col-md-6">
+                    <div class="card info-card sales-card" style="background-color:#A0BFE0;">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Index" style="color:#444444" target="_blank">
+                                    Countries
+                                </a>
+                            </h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" style="background-color:#E4F1FF">
+                                    <i class="bi bi-geo-alt"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6 class="counter text-dark">@dr1["Country_Count"]</h6>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- End Country Card -->
+                <!-- State Card -->
+                <div class="col-xxl-3 col-md-6">
+                    <div class="card info-card sales-card" style="background-color:#A0BFE0;">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a asp-area="LOC_State" asp-controller="LOC_State" asp-action="Index" style="color:#444444" target="_blank">
+                                    States
+                                </a>
+                            </h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" style="background-color:#E4F1FF">
+                                    <i class="bi bi-geo-alt"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6 class="counter text-dark">@dr1["State_Count"]</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End State Card -->
+                <!-- City Card -->
+                <div class="col-xxl-3 col-xl-12">
+                    <div class="card info-card sales-card" style="background-color:#A0BFE0;">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a asp-area="LOC_City" asp-controller="LOC_City" asp-action="Index" style="color:#444444" target="_blank">
+                                    Cities
+                                </a>
+                            </h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" style="background-color:#E4F1FF">
+                                    <i class="bi bi-geo-alt"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6 class="counter text-dark">@dr1["City_Count"]</h6>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- End City Card -->
+                <!-- Employee Card -->
+                <div class="col-xxl-3 col-xl-12">
+                    <div class="card info-card sales-card" style="background-color:#A0BFE0;">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Index" style="color:#444444" target="_blank">
+                                    Employees
+                                </a>
+                            </h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" style="background-color:#E4F1FF">
+                                    @*  <i class="bi bi-person-lines-fill"></i> *@
+                                    <i class="bi bi-person-fill"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6 class="counter text-dark">@dr1["Employee_Count"]</h6>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- End Employee Card -->
+            </div>
+        }
+    </div>
+    <!---------- Statistics End ---------->
+    <!---------- Recent Add start ---------->
+    <div class="mt-3">
+        <div>
+            <span><i class="bi bi-arrow-clockwise fs-4 fw-bold"></i>  <span class="google-font fs-5">Recently Added</span></span>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-6">
+                <div class="card recent-sales overflow-auto">
+
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            City
+                            <a class="float-end btn btn-primary text-light" style="color:#444444" asp-area="LOC_City" asp-controller="LOC_City" asp-action="Add" target="_blank"><i class="bi bi-plus"></i>Add new Quick</a>
+                        </h5>
+
+                        <hr />
+                        <table class=" table table-hover table-striped mt-3" id="myTable">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">Country Name</th>
+                                    <th class="text-center">State Name</th>
+                                    <th class="text-center">City Name</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (DataRow row in Model.DataTable2.Rows)
+                                {
+                                    <tr>
+                                        @foreach (var cell in row.ItemArray)
+                                        {
+                                            <td class="text-center">@cell.ToString()</td>
+                                        }
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card recent-sales overflow-auto">
+
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Employee
+                            <a class="float-end btn btn-primary text-light" style="color:#444444" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Add" target="_blank"><i class="bi bi-plus"></i>Add new Quick</a>
+                        </h5>
+                        <hr />
+                        <table class=" table table-hover table-striped mt-3" id="myTable">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">Employee Name</th>
+                                    <th class="text-center">Department</th>
+                                    <th class="text-center">Email</th>
+                                    <th class="text-center">Salary</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (DataRow row in Model.DataTable3.Rows)
+                                {
+                                    <tr>
+                                        @foreach (var cell in row.ItemArray)
+                                        {
+                                            <td class="text-center">@cell.ToString()</td>
+                                        }
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---------- Recent Add End ---------->
+    <!---------- Quick links Start ---------->
+    <div class="mt-3">
+        <div>
+            <span><i class="bi bi-link-45deg fs-4 fw-bold"></i>  <span class="google-font fs-5">Quick Links</span></span>
+            <span id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="position:relative;top:6px;cursor:pointer;">
+                <i class="bi bi-plus text-dark fs-2" style="margin:0px 5px;"></i>
+            </span>
+            <!-- Dropdown Menu -->
+            <div class="dropdown-menu">
+                <a class="dropdown-item" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Add" target="_blank">Add Country</a>
+                <a class="dropdown-item" asp-area="LOC_State" asp-controller="LOC_State" asp-action="Add" target="_blank">Add State</a>
+                <a class="dropdown-item" asp-area="LOC_City" asp-controller="LOC_City" asp-action="Add" target="_blank">Add City</a>
+                <a class="dropdown-item" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Add" target="_blank">Add Employee</a>
+                <a class="dropdown-item" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add" target="_blank">Add Department</a>
+            </div>
+        </div>
+        <hr />
+    </div>
+    <!---------- Quick links End ---------->
+
+
+
+
+</section>
+
+@section scripts{
+    <script>
+        $('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+    </script>
+    }

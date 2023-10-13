@@ -1,0 +1,1457 @@
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.exe
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.FirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstProject.props
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstProject.props
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstProject.props
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+C:\Users\mayur\Downloads\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\Downloads\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\mayur\Downloads\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\appsettings.json
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.exe
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.FirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+C:\Users\mayur\source\repos\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+F:\FirstProject\bin\Debug\net6.0\appsettings.Development.json
+F:\FirstProject\bin\Debug\net6.0\appsettings.json
+F:\FirstProject\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+F:\FirstProject\bin\Debug\net6.0\FirstProject.exe
+F:\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+F:\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+F:\FirstProject\bin\Debug\net6.0\FirstProject.dll
+F:\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\FirstProject\bin\Debug\net6.0\Humanizer.dll
+F:\FirstProject\bin\Debug\net6.0\MessagePack.dll
+F:\FirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Common.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\FirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\FirstProject\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\FirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\FirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\FirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\FirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\FirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\FirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\FirstProject\bin\Debug\net6.0\System.Data.Odbc.dll
+F:\FirstProject\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\FirstProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\FirstProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\FirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\FirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\FirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\FirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\FirstProject\bin\Debug\net6.0\Unity.Abstractions.dll
+F:\FirstProject\bin\Debug\net6.0\Unity.Interception.dll
+F:\FirstProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+F:\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+F:\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+F:\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+F:\FirstProject\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+F:\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+F:\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+F:\FirstProject\obj\Debug\net6.0\staticwebassets.build.json
+F:\FirstProject\obj\Debug\net6.0\staticwebassets.development.json
+F:\FirstProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\FirstProject\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+F:\FirstProject\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+F:\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+F:\FirstProject\obj\Debug\net6.0\FirstProject.dll
+F:\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+F:\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+F:\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+F:\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\appsettings.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.exe
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.FirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstProject.props
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstProject.props
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstProject.props
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+C:\Users\mayur\source\repos\New folder\FirstProject\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\appsettings.Development.json
+F:\FirstProject\FirstProject\bin\Debug\net6.0\appsettings.json
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.exe
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Humanizer.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\MessagePack.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Common.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.Odbc.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Unity.Abstractions.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\Unity.Interception.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FirstProject\FirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+F:\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets.build.json
+F:\FirstProject\FirstProject\obj\Debug\net6.0\staticwebassets.development.json
+F:\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+F:\FirstProject\FirstProject\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.dll
+F:\FirstProject\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+F:\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+F:\FirstProject\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\appsettings.json
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.staticwebassets.runtime.json
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.exe
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayur\source\repos\FirstProject_kk\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.RazorAssemblyInfo.cs
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets\msbuild.FirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstProject.props
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\scopedcss\bundle\FirstProject.styles.css
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.csproj.CopyComplete
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+C:\Users\mayur\source\repos\FirstProject_kk\obj\Debug\net6.0\ref\FirstProject.dll

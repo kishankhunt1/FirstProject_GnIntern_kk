@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "CountryAddEdit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model FirstProject.Areas.LOC_Country.Models.LOC_CountryModel;
+<section class="section">
+    <p>
+        @TempData["Success"]
+    </p>
+    <div class="">
+        <div class="fs-2 text-danger">
+            Add Country
+        </div>
+    </div>
+    <hr />
+    <div class="mt-4">
+        <form method="post" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Save">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="CountryID" autocomplete="off" />
+
+            <div>
+                <div class="fw-bold"><label asp-for="CountryName">Country Name</label><span class="text-danger fw-bold">*</span></div>
+                <div class="mt-2"><input type="text" class="form-control" asp-for="CountryName" autocomplete="off" /></div>
+                <span class="text-danger" asp-validation-for="CountryName"></span>
+            </div>
+            <br /><hr />
+
+            <button type="submit" class="btn btn-success">
+                Submit
+            </button>
+            <a type="submit" class="btn btn-secondary" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Index">
+                Back to List
+            </a>
+        </form>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

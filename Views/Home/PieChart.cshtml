@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "PieChart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using System.Data;
+@model List<Dictionary<string, object>>
+
+<h1>Pie Chart</h1>
+
+<div class="mt-3">
+    <canvas id="employeeCountChart" style="max-height:500px;max-width:1000px;"></canvas>px
+</div>
+
+@section scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var data = @Html.Raw(Json.Serialize(Model));
+
+            var labels = data.map(function (item) {
+                return item['Month'];
+            });
+
+            var values = data.map(function (item) {
+                return item['CountOfEmployee'];
+            });
+
+            // Create a bar chart
+            var ctx = document.getElementById('employeeCountChart').getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Employee Count',
+                        data: values,
+                        backgroundColor: [
+                            'rgba(255, 99, 132)',
+                            'rgba(255, 159, 64)',
+                            'rgba(255, 205, 86)',
+                            'rgba(75, 192, 192)',
+                            'rgba(54, 162, 235)',
+                            'rgba(153, 102, 255)',
+                            'rgba(201, 203, 207)',
+                            'rgba(75, 192, 192)'],
+
+                    borderWidth: 1
+                }]
+            },
+                options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+                            });
+                        });
+    </script>
+
+}
+

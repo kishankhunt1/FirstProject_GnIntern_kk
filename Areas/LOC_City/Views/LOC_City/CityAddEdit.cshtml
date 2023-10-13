@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "CityAddEdit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model FirstProject.Areas.LOC_City.Models.LOC_CityModel;
+<section class="section">
+    <p>
+        @TempData["Success"]
+    </p>
+    <div class="">
+        <div class="fs-2 text-danger">
+            Add City
+        </div>
+    </div>
+    <hr />
+    <div class="mt-4">
+        <form method="post" asp-area="LOC_City" asp-controller="LOC_City" asp-action="Save">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="CityID" autocomplete="off" />
+
+            <div class="row mb-4">
+                <div class="col-6">
+                    <div class="fw-bold mb-2"><label asp-for="CountryID">Country Name</label><span class="text-danger fw-bold">*</span></div>
+                    <select class="form-control" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList,"CountryID", "CountryName"))" onchange="functionOnStateChange();">
+                        <option value="">
+                            Select Country
+                        </option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="CountryID"></span>
+                </div>
+                <div class="col-6">
+                    <div class="fw-bold mb-2"><label asp-for="StateID">State Name</label><span class="text-danger fw-bold">*</span></div>
+                    <select class="form-control" asp-for="StateID" asp-items="@(new SelectList(ViewBag.StateList,"StateID", "StateName"))">
+                        <option value="">
+                            Select State
+                        </option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="StateID"></span>
+                </div>
+            </div>
+            <div>
+                <div class="fw-bold"><label asp-for="CityName">City Name</label><span class="text-danger fw-bold">*</span></div>
+                <div class="mt-2"><input type="text" class="form-control" asp-for="CityName" autocomplete="off" /></div>
+                <span class="text-danger" asp-validation-for="CityName"></span>
+            </div>
+
+            <br /><hr />
+
+            <button type="submit" class="btn btn-success">
+                Submit
+            </button>
+            <a type="submit" class="btn btn-secondary" asp-controller="LOC_City" asp-action="Index">
+                Back to List
+            </a>
+        </form>
+    </div>
+</section>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        function functionOnStateChange() {
+            var CountryID = $("#CountryID").val();
+
+            if (CountryID !== "") {
+                $("#StateID").empty();
+                $("#StateID").append($("<option></option>").val("").html("Select State"));
+                $.ajax(
+                    {
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        url: "@Url.Action("DropDownByCountry","LOC_City")" + "?&CountryID=" + CountryID,
+                        data: {},
+                        dataType: "json",
+                        success: function (Result) {
+                            $.each(Result, function (key, value) {
+                                $("#StateID").append($("<option></option>").val(value.stateID).html(value.stateName));
+                            });
+                        },
+                        error: function (err) {
+                            alert("Error While Running AJAX");
+                        }
+                    }
+                )
+            }
+            else {
+                $("#StateID").empty();
+                $("#StateID").append($("<option></option>").val("").html("Select State"));
+            }
+
+        }
+    </script>
+}
+
