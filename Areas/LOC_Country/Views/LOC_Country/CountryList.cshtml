@@ -51,10 +51,10 @@
                         @dr.CountryName
                     </td>
                     <td class="text-center">
-                        <a class="text-dark" asp-area="LOC_Country" asp-controller="LOC_State" asp-action="Index" asp-route-CountryID="@dr.CountryID">@dr.StateCount</a>
+                        <a class="text-dark" asp-area="LOC_State" asp-controller="LOC_State" asp-action="Index" asp-route-CountryID="@dr.CountryID">@dr.StateCount</a>
                     </td>
                     <td class="text-center">
-                        <a class="text-dark" asp-area="LOC_Country" asp-controller="LOC_City" asp-action="Index" asp-route-CountryID="@dr.CountryID">@dr.CityCount</a>
+                        <a class="text-dark" asp-area="LOC_City" asp-controller="LOC_City" asp-action="Index" asp-route-CountryID="@dr.CountryID">@dr.CityCount</a>
                     </td>
                     <td class="text-center">
                         @(Convert.ToDateTime(dr.Created).ToString("dd-MM-yyyy"))
