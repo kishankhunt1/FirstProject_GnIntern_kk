@@ -7,16 +7,31 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EnterpriseLibrary.Data.NetCore" Version="6.3.2" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <Compile Remove="Areas\EMP_Department\Data\**" />
+    <Compile Remove="Areas\EMP_Employee\Data\**" />
+    <Compile Remove="Areas\LOC_City\Data\**" />
+    <Compile Remove="Areas\LOC_Country\Data\**" />
+    <Compile Remove="Areas\LOC_State\Data\**" />
+    <Content Remove="Areas\EMP_Department\Data\**" />
+    <Content Remove="Areas\EMP_Employee\Data\**" />
+    <Content Remove="Areas\LOC_City\Data\**" />
+    <Content Remove="Areas\LOC_Country\Data\**" />
+    <Content Remove="Areas\LOC_State\Data\**" />
+    <EmbeddedResource Remove="Areas\EMP_Department\Data\**" />
+    <EmbeddedResource Remove="Areas\EMP_Employee\Data\**" />
+    <EmbeddedResource Remove="Areas\LOC_City\Data\**" />
+    <EmbeddedResource Remove="Areas\LOC_Country\Data\**" />
+    <EmbeddedResource Remove="Areas\LOC_State\Data\**" />
+    <None Remove="Areas\EMP_Department\Data\**" />
+    <None Remove="Areas\EMP_Employee\Data\**" />
+    <None Remove="Areas\LOC_City\Data\**" />
+    <None Remove="Areas\LOC_Country\Data\**" />
+    <None Remove="Areas\LOC_State\Data\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\EMP_Department\Data\" />
-    <Folder Include="Areas\EMP_Employee\Data\" />
-    <Folder Include="Areas\LOC_City\Data\" />
-    <Folder Include="Areas\LOC_Country\Data\" />
-    <Folder Include="Areas\LOC_State\Data\" />
+    <PackageReference Include="EnterpriseLibrary.Data.NetCore" Version="6.3.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 
 </Project>
