@@ -9,129 +9,129 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FirstProject
 build_property.RootNamespace = FirstProject
-build_property.ProjectDir = C:\Users\mayur\source\repos\FirstProject_kk\
+build_property.ProjectDir = C:\Users\mayur\source\repos\FirstProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mayur\source\repos\FirstProject_kk
+build_property.MSBuildProjectDirectory = C:\Users\mayur\source\repos\FirstProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Department/Views/EMP_Department/DepartmentAddEdit.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Department/Views/EMP_Department/DepartmentAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcRU1QX0RlcGFydG1lbnRcRGVwYXJ0bWVudEFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Department/Views/EMP_Department/DepartmentList.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Department/Views/EMP_Department/DepartmentList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcRU1QX0RlcGFydG1lbnRcRGVwYXJ0bWVudExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Department/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Department/Views/Shared/_FilterDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcU2hhcmVkXF9GaWx0ZXJEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Department/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Employee/Views/EMP_Employee/EmployeeAddEdit.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Employee/Views/EMP_Employee/EmployeeAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0VtcGxveWVlXFZpZXdzXEVNUF9FbXBsb3llZVxFbXBsb3llZUFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Employee/Views/EMP_Employee/EmployeeList.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Employee/Views/EMP_Employee/EmployeeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0VtcGxveWVlXFZpZXdzXEVNUF9FbXBsb3llZVxFbXBsb3llZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/EMP_Employee/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Employee/Views/Shared/_FilterEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0VtcGxveWVlXFZpZXdzXFNoYXJlZFxfRmlsdGVyRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayur/source/repos/FirstProject/Areas/EMP_Employee/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0VtcGxveWVlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_City/Views/LOC_City/CityAddEdit.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_City/Views/LOC_City/CityAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcQ2l0eUFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_City/Views/LOC_City/CityList.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_City/Views/LOC_City/CityList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcQ2l0eUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_City/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_City/Views/Shared/_FilterCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcU2hhcmVkXF9GaWx0ZXJDaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_City/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_Country/Views/LOC_Country/CountryAddEdit.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_Country/Views/LOC_Country/CountryAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcQ291bnRyeUFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_Country/Views/LOC_Country/CountryList.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_Country/Views/LOC_Country/CountryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcQ291bnRyeUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_Country/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_Country/Views/Shared/_FilterCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcU2hhcmVkXF9GaWx0ZXJDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_Country/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_State/Views/LOC_State/StateAddEdit.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_State/Views/LOC_State/StateAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxTdGF0ZUFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_State/Views/LOC_State/StateList.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_State/Views/LOC_State/StateList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxTdGF0ZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Areas/LOC_State/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_State/Views/Shared/_FilterState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXFNoYXJlZFxfRmlsdGVyU3RhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayur/source/repos/FirstProject/Areas/LOC_State/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Home/Chart.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Home/Chart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Home/Index.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Home/PieChart.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Home/PieChart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaWVDaGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Home/Privacy.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/Error.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_FilterCity.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJDaXR5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_FilterCountry.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJDb3VudHJ5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_FilterDepartment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJEZXBhcnRtZW50LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_FilterEmployee.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJFbXBsb3llZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_FilterState.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJTdGF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_Notification.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/_ViewImports.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/_ViewStart.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mayur/source/repos/FirstProject_kk/Views/Shared/_Layout.cshtml]
+[C:/Users/mayur/source/repos/FirstProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-197opiyz8i

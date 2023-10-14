@@ -30,7 +30,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Add Record
+        #region Function: Add Record
         public IActionResult Add(int? DepartmentId)
         {
             if (ModelState.IsValid)
@@ -53,7 +53,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Save the record
+        #region Function: Save the record
         [HttpPost]
         public IActionResult Save(EMP_DepartmentModel modelEMP_Department)
         {
@@ -81,7 +81,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Delete record
+        #region Function: Delete record
         public IActionResult Delete(int DepartmentID)
         {
             if (Convert.ToBoolean(dalEMP.PR_EMP_Department_DeleteByPk(DepartmentID)))
@@ -92,7 +92,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Delete Multiple
+        #region Function: Delete Multiple
         [HttpPost]
         public IActionResult DeleteMultiple(int[] Ids)
         {
@@ -110,7 +110,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Search Record
+        #region Function: Search Record
         [HttpPost]
         public IActionResult Search(string DepartmentName)
         {
@@ -132,7 +132,7 @@ namespace FirstProject.Areas.EMP_Department.Controllers
         }
         #endregion
 
-        #region Function: Cancel 
+        #region Function: Clear Search Result
         public IActionResult Cancel()
         {
             return RedirectToAction("Index");

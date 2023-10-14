@@ -12,7 +12,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
     {
         LOC_DAL dalLOC = new LOC_DAL();
 
-        #region Select All Record
+        #region Function: Select All Record
         public IActionResult Index(LOC_StateModel modelLOC_State)
         {
             #region  Country Drop down
@@ -46,7 +46,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Add Record
+        #region Function: Add Record
         public IActionResult Add(int? StateID)
         {
             if (ModelState.IsValid)
@@ -84,7 +84,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Save the record
+        #region Function: Save the record
         [HttpPost]
         public IActionResult Save(LOC_StateModel modelLOC_State)
         {
@@ -109,7 +109,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Delete record
+        #region Function: Delete record
         public IActionResult Delete(int StateID)
         {
             if (Convert.ToBoolean(dalLOC.PR_LOC_State_DeleteByPk(StateID)))
@@ -120,7 +120,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Delete Multiple
+        #region Function: Delete Multiple
         [HttpPost]
         public IActionResult DeleteMultiple(int[] Ids)
         {
@@ -138,7 +138,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Clear result for search
+        #region Function: Clear Search Result
         public IActionResult Clear()
         {
             return RedirectToAction("Index");

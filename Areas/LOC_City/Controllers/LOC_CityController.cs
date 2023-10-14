@@ -191,5 +191,12 @@ namespace FirstProject.Areas.LOC_City.Controllers
             ViewBag.StateList = List1;
         }
         #endregion
+
+        #region Funtion: Clear Search Result
+        public IActionResult Cancel()
+        {
+            return RedirectToAction("Index");
+        }
+        #endregion
     }
 }

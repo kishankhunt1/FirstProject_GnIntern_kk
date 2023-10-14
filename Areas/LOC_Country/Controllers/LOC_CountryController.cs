@@ -133,7 +133,7 @@ namespace FirstProject.Areas.LOC_Country.Controllers
         }
         #endregion
 
-        #region Funtion: Cancel Button
+        #region Funtion: Clear Search Result
         public IActionResult Cancel()
         {
             return RedirectToAction("Index");

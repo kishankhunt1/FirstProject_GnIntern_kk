@@ -40,7 +40,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
         }
         #endregion
 
-        #region Add Record
+        #region Function: Add Record
         public IActionResult Add(int? EmployeeId)
         {
             if (ModelState.IsValid)
@@ -98,7 +98,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
 
         #endregion
 
-        #region Save the record
+        #region Function: Save the record
         [HttpPost]
         public IActionResult Save(EMP_EmployeeModel modelEMP_Employee)
         {
@@ -126,7 +126,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
         }
         #endregion
 
-        #region Delete record
+        #region Function: Delete record
         public IActionResult Delete(int Employeeid)
         {
             if (Convert.ToBoolean(dalEMP.PR_EMP_Employee_DeleteByPk(Employeeid)))
@@ -138,7 +138,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
         }
         #endregion
 
-        #region Delete Multiple
+        #region Function: Delete Multiple
         [HttpPost]
         public IActionResult DeleteMultiple(int[] Ids)
         {
@@ -156,7 +156,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
         }
         #endregion
 
-        #region Search Record
+        #region Function: Search Record
         [HttpPost]
         public IActionResult Search(string EmployeeName, string Gender, string EmployeeEmail)
         {
@@ -182,7 +182,7 @@ namespace FirstProject.Areas.EMP_Employee.Controllers
         }
         #endregion
 
-        #region Function: Cancel
+        #region Function: Clear Search Result
         public IActionResult Cancel()
         {
             return RedirectToAction("Index");

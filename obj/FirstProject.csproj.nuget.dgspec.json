@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayur\\source\\repos\\FirstProject_kk\\FirstProject.csproj": {}
+    "C:\\Users\\mayur\\source\\repos\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayur\\source\\repos\\FirstProject_kk\\FirstProject.csproj": {
+    "C:\\Users\\mayur\\source\\repos\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayur\\source\\repos\\FirstProject_kk\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\mayur\\source\\repos\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\mayur\\source\\repos\\FirstProject_kk\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\mayur\\source\\repos\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayur\\source\\repos\\FirstProject_kk\\obj\\",
+        "outputPath": "C:\\Users\\mayur\\source\\repos\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config",
