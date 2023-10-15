@@ -63,10 +63,10 @@
                         @(Convert.ToDateTime(dr.Modified).ToString("dd-MM-yyyy"))
                     </td>
                     <td class="text-center">
-                        <a class="btn btn-secondary m-2" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Add" asp-route-CountryID="@dr.CountryID">
+                        <a class="btn btn-secondary m-2" data-bs-toggle="tooltip" data-bs-title="Edit" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Add" asp-route-CountryID="@dr.CountryID">
                             <i class="bi bi-pencil-square"></i>
                         </a>
-                        <a class="btn btn-danger m-2" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Delete" asp-route-CountryID="@dr.CountryID" onclick="return confirm('Are You sure delete it!!!')">
+                        <a class="btn btn-danger m-2" data-bs-toggle="tooltip" data-bs-title="Delete" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="Delete" asp-route-CountryID="@dr.CountryID" onclick="return confirm('Are You sure delete it!!!')">
                             <i class="bi bi-trash-fill"></i>
                         </a>
                     </td>

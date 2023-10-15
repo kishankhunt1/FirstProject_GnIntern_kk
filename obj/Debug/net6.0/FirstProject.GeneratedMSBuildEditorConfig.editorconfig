@@ -23,6 +23,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcRU1QX0RlcGFydG1lbnRcRGVwYXJ0bWVudExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/FirstProject_GnIntern_kk/Areas/EMP_Department/Views/EMP_Department/DeptEditMany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcRU1QX0RlcGFydG1lbnRcRGVwdEVkaXRNYW55LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/FirstProject_GnIntern_kk/Areas/EMP_Department/Views/Shared/_FilterDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRU1QX0RlcGFydG1lbnRcVmlld3NcU2hhcmVkXF9GaWx0ZXJEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

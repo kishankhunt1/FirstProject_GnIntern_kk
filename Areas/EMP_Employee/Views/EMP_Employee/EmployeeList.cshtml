@@ -78,11 +78,11 @@
                         @Convert.ToDateTime(dr.Modified).ToString("dd-MM-yyyy")
                     </td>
                     <td class="text-center">
-                        <a class="btn btn-secondary m-2" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Add" asp-route-EmployeeID="@(Convert.ToInt32(dr.EmployeeID))">
+                        <a class="btn btn-secondary m-2" data-bs-toggle="tooltip" data-bs-title="Edit" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Add" asp-route-EmployeeID="@(Convert.ToInt32(dr.EmployeeID))">
 
                             <i class="bi bi-pencil-square"></i>
                         </a>
-                        <a class="btn btn-danger m-2" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Delete" asp-route-EmployeeID="@(Convert.ToInt32(dr.EmployeeID))" onclick="return confirm('Are You sure delete it!!!')">
+                        <a class="btn btn-danger m-2" data-bs-toggle="tooltip" data-bs-title="Delete" asp-area="EMP_Employee" asp-controller="EMP_Employee" asp-action="Delete" asp-route-EmployeeID="@(Convert.ToInt32(dr.EmployeeID))" onclick="return confirm('Are You sure delete it!!!')">
                             <i class="bi bi-trash-fill"></i>
                         </a>
                     </td>

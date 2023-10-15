@@ -4,9 +4,7 @@
 }
 
 
-@using System.Data;
 @using FirstProject.Areas.EMP_Department.Models;
-@model FirstProject.Areas.EMP_Department.Models.EMP_DepartmentModel;
 
 <section class="section">
     <div class="d-flex row">
@@ -14,7 +12,7 @@
             <p class="fs-2 fw-bold">Department</p>
         </div>
         <div class="col-2">
-            <a class="btn btn-success" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add"><i class="bi bi-plus-lg"></i> Add Department</a>
+            <a class="btn btn-success " asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add"><i class="bi bi-plus-lg"></i> Add Department</a>
         </div>
         <hr class="mb-3" />
     </div>
@@ -27,10 +25,12 @@
     <hr class="" />
 
     <div class="text-end">
-        <button class="btn btn-danger mb-5" id="hideButton">Delete Multiple</button>
-        <button class="btn btn-danger mb-5" id="btnDelete">Delete Selected</button>
+        <button class="btn btn-danger mb-3" id="hideButton">Delete Multiple</button>
+        <button class="btn btn-danger mb-3" id="btnDelete">Delete Selected</button>
+        <a class="btn btn-warning mb-3" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="EditMany">Edit Many</a>
     </div>
 
+    
 
     <table class=" table table-hover table-striped" id="myTable">
         <thead>
@@ -56,11 +56,10 @@
                         @Convert.ToDateTime(dr.Modified).ToString("dd-MM-yyyy")
                     </td>
                     <td class="text-center">
-                        <a class="btn btn-secondary m-2" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))">
-
+                        <a class="btn btn-secondary m-2" data-bs-toggle="tooltip" data-bs-title="Edit" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Add" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))">
                             <i class="bi bi-pencil-square"></i>
                         </a>
-                        <a class="btn btn-danger m-2" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Delete" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))" onclick="return confirm('Are You sure delete it!!!')">
+                        <a class="btn btn-danger m-2" data-bs-toggle="tooltip" data-bs-title="Delete" asp-area="EMP_Department" asp-controller="EMP_Department" asp-action="Delete" asp-route-DepartmentID="@(Convert.ToInt32(dr.DepartmentID))" onclick="return confirm('Are You sure delete it!!!')">
                             <i class="bi bi-trash-fill"></i>
                         </a>
                     </td>

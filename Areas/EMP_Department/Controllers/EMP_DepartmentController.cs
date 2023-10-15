@@ -138,5 +138,44 @@ namespace FirstProject.Areas.EMP_Department.Controllers
             return RedirectToAction("Index");
         }
         #endregion
+
+        #region Function: Edit Many Records
+        public IActionResult EditMany()
+        {
+            List<EMP_DepartmentModel> Department = new List<EMP_DepartmentModel>();
+            DataTable dt = dalEMP.PR_EMP_Department_SelectAll();
+            foreach (DataRow dr in dt.Rows)
+            {
+                EMP_DepartmentModel model = new EMP_DepartmentModel();
+                model.DepartmentID = Convert.ToInt32(dr["DepartmentID"]);
+                model.DepartmentName = dr["DepartmentName"].ToString();
+                model.Modified = Convert.ToDateTime(dr["Modified"]);
+                Department.Add(model);
+            }
+            return View("DeptEditMany", Department);
+        }
+        #endregion
+
+        #region Function: Edit Many Post
+        [HttpPost]
+        public IActionResult EditManyPost(List<EMP_DepartmentModel> Department)
+        {
+            if (ModelState.IsValid)
+            {
+                foreach (var department in Department)
+                {
+                    if (department.DepartmentID != null)
+                    {
+                        if (Convert.ToBoolean(dalEMP.PR_EMP_Department_UpdateByPk(department)))
+                        {
+                            TempData["success"] = "Record Updated successfully.";
+                        }
+                    }
+                }
+                return RedirectToAction("Index");
+            }
+            return View(Department);
+        }
+        #endregion
     }
 }
