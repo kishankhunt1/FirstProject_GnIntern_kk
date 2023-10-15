@@ -87,6 +87,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxTdGF0ZUFkZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/FirstProject_GnIntern_kk/Areas/LOC_State/Views/LOC_State/StateEditMany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxTdGF0ZUVkaXRNYW55LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/FirstProject_GnIntern_kk/Areas/LOC_State/Views/LOC_State/StateList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxTdGF0ZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

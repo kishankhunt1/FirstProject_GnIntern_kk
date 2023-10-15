@@ -145,6 +145,45 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
+        #region Function: Edit Many Records
+        public IActionResult EditMany()
+        {
+            DataTable dt = dalLOC.PR_LOC_State_SelectAllForEditMultiple();
+            List<LOC_StateModel> State = new List<LOC_StateModel>();
+            foreach (DataRow dr in dt.Rows)
+            {
+                LOC_StateModel modelLOC_StateModel = new LOC_StateModel();
+                modelLOC_StateModel.StateID = Convert.ToInt32(dr["StateID"]);
+                modelLOC_StateModel.StateName = dr["StateName"].ToString();
+                modelLOC_StateModel.CountryID = Convert.ToInt32(dr["CountryID"]);
+                modelLOC_StateModel.CountryName = dr["CountryName"].ToString();
+                modelLOC_StateModel.Modified = Convert.ToDateTime(dr["Modified"]);
+                State.Add(modelLOC_StateModel);
+            }
+            return View("StateEditMany", State);
+        }
+        #endregion
+
+        #region Function: Edit Many Post
+        public IActionResult EditManyPost(List<LOC_StateModel> State)
+        {
+            if (ModelState.IsValid)
+            {
+                foreach(var state in State)
+                {
+                    if(state.StateID != null)
+                    {
+                        if (Convert.ToBoolean(dalLOC.PR_LOC_State_UpdateByPk(state)))
+                        {
+                            TempData["success"] = "Record Updated successfully.";
+                        }
+                    }
+                }
+                return RedirectToAction("Index");
+            }
+            return View(State);
+        }
+        #endregion
 
     }
 }

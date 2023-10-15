@@ -159,6 +159,29 @@ namespace FirstProject.DAL
         }
         #endregion
 
+        #region Method: PR_LOC_State_SelectAllForEditMultiple
+        public DataTable PR_LOC_State_SelectAllForEditMultiple()
+        {
+            try
+            {
+                SqlDatabase sqlDB = new SqlDatabase(ConnectionString);
+                DbCommand dbCMD = sqlDB.GetStoredProcCommand("PR_LOC_State_SelectAll");
+                DataTable dt = new DataTable();
+
+                using (IDataReader dr = sqlDB.ExecuteReader(dbCMD))
+                {
+                    dt.Load(dr);
+                }
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+
+        }
+        #endregion
+
         #region Method: PR_LOC_State_SelectByPk
         public DataTable PR_LOC_State_SelectByPk(int? StateID)
         {

@@ -146,11 +146,11 @@ namespace FirstProject.Areas.EMP_Department.Controllers
             DataTable dt = dalEMP.PR_EMP_Department_SelectAll();
             foreach (DataRow dr in dt.Rows)
             {
-                EMP_DepartmentModel model = new EMP_DepartmentModel();
-                model.DepartmentID = Convert.ToInt32(dr["DepartmentID"]);
-                model.DepartmentName = dr["DepartmentName"].ToString();
-                model.Modified = Convert.ToDateTime(dr["Modified"]);
-                Department.Add(model);
+                EMP_DepartmentModel modelEMP_DepartmentModel = new EMP_DepartmentModel();
+                modelEMP_DepartmentModel.DepartmentID = Convert.ToInt32(dr["DepartmentID"]);
+                modelEMP_DepartmentModel.DepartmentName = dr["DepartmentName"].ToString();
+                modelEMP_DepartmentModel.Modified = Convert.ToDateTime(dr["Modified"]);
+                Department.Add(modelEMP_DepartmentModel);
             }
             return View("DeptEditMany", Department);
         }
