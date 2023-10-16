@@ -2,6 +2,7 @@
 using FirstProject.Areas.LOC_State.Models;
 using FirstProject.DAL;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Data;
 
 namespace FirstProject.Areas.LOC_State.Controllers
@@ -148,6 +149,29 @@ namespace FirstProject.Areas.LOC_State.Controllers
         #region Function: Edit Many Records
         public IActionResult EditMany()
         {
+
+            #region  Country Drop down
+            DataTable dt1 = dalLOC.PR_LOC_Country_CountryDropDown();
+            List<CountryDropDown> CountryList = new List<CountryDropDown>();
+            foreach (DataRow dr in dt1.Rows)
+            {
+                CountryDropDown vlst = new CountryDropDown();
+                vlst.CountryID = Convert.ToInt32(dr["CountryID"]);
+                vlst.CountryName = dr["CountryName"].ToString();
+                CountryList.Add(vlst);
+            }
+            var countries = new List<SelectListItem>();
+            foreach (var country in CountryList)
+            {
+                countries.Add(new SelectListItem
+                {
+                    Value = country.CountryName,
+                    Text = country.CountryName
+                });
+            }
+            ViewBag.Countries = countries;
+            #endregion
+
             DataTable dt = dalLOC.PR_LOC_State_SelectAllForEditMultiple();
             List<LOC_StateModel> State = new List<LOC_StateModel>();
             foreach (DataRow dr in dt.Rows)
@@ -160,30 +184,32 @@ namespace FirstProject.Areas.LOC_State.Controllers
                 modelLOC_StateModel.Modified = Convert.ToDateTime(dr["Modified"]);
                 State.Add(modelLOC_StateModel);
             }
+
+
+
+
             return View("StateEditMany", State);
         }
         #endregion
 
         #region Function: Edit Many Post
+        [HttpPost]
         public IActionResult EditManyPost(List<LOC_StateModel> State)
         {
-            if (ModelState.IsValid)
+            foreach (var state in State)
             {
-                foreach(var state in State)
+                if (state.StateID != null)
                 {
-                    if(state.StateID != null)
+                    if (Convert.ToBoolean(dalLOC.PR_LOC_State_UpdateByPk(state)))
                     {
-                        if (Convert.ToBoolean(dalLOC.PR_LOC_State_UpdateByPk(state)))
-                        {
-                            TempData["success"] = "Record Updated successfully.";
-                        }
+                        TempData["success"] = "Record Updated successfully.";
                     }
                 }
-                return RedirectToAction("Index");
             }
-            return View(State);
+            return RedirectToAction("Index");
         }
-        #endregion
-
     }
+    #endregion
+
 }
+
