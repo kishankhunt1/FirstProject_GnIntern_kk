@@ -146,10 +146,9 @@ namespace FirstProject.Areas.LOC_State.Controllers
         }
         #endregion
 
-        #region Function: Edit Many Records
-        public IActionResult EditMany()
+        #region Function: CountryDropDownForEditMany
+        public void CountryDropDownForEditMany()
         {
-
             #region  Country Drop down
             DataTable dt1 = dalLOC.PR_LOC_Country_CountryDropDown();
             List<CountryDropDown> CountryList = new List<CountryDropDown>();
@@ -171,7 +170,12 @@ namespace FirstProject.Areas.LOC_State.Controllers
             }
             ViewBag.Countries = countries;
             #endregion
+        }
+        #endregion
 
+        #region Function: Edit Many Records
+        public IActionResult EditMany()
+        {
             DataTable dt = dalLOC.PR_LOC_State_SelectAllForEditMultiple();
             List<LOC_StateModel> State = new List<LOC_StateModel>();
             foreach (DataRow dr in dt.Rows)
@@ -185,8 +189,7 @@ namespace FirstProject.Areas.LOC_State.Controllers
                 State.Add(modelLOC_StateModel);
             }
 
-
-
+            CountryDropDownForEditMany();
 
             return View("StateEditMany", State);
         }
@@ -198,6 +201,9 @@ namespace FirstProject.Areas.LOC_State.Controllers
         {
             foreach (var state in State)
             {
+                //var countryID = Request.Form["CountryID"];
+                //state.CountryID = Convert.ToInt32(countryID);
+
                 if (state.StateID != null)
                 {
                     if (Convert.ToBoolean(dalLOC.PR_LOC_State_UpdateByPk(state)))
@@ -206,10 +212,11 @@ namespace FirstProject.Areas.LOC_State.Controllers
                     }
                 }
             }
+
             return RedirectToAction("Index");
         }
-    }
-    #endregion
+        #endregion
 
+    }
 }
 

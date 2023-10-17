@@ -226,7 +226,7 @@ namespace FirstProject.DAL
 
         #region Method: PR_LOC_State_UpdateByPk
         public bool? PR_LOC_State_UpdateByPk(LOC_StateModel modelLOC_State)
-        {
+            {
             try
             {
                 SqlDatabase sqlDB = new SqlDatabase(ConnectionString);

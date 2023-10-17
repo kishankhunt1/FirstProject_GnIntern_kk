@@ -27,8 +27,8 @@
                 {
                     <tr>
                         <td>
-                            @* <input type="hidden" class="form-control" name="state[@i].CountryID" value="@Model[i].CountryID" />  *@
-                            <select class="form-control" id="State_CountryID" name="State[@i].CountryID" value="@Model[i].CountryID" asp-items="@(new SelectList(ViewBag.Countries,"Value","Text",Model[i].CountryName))"
+                            @* <input type="hidden" class="form-control" name="State[@i].CountryID" value="@Model[i].CountryID" /> *@
+                            <select id="State_CountryID" onchange="updateCountryID()" class="form-control" name="State[@i].CountryID"  asp-items="@(new SelectList(ViewBag.Countries,"Value","Text",Model[i].CountryName))"
                                     data-placeholder="Select Country">
                                 <option value="">Select Country</option>
                             </select>
@@ -48,4 +48,3 @@
         <button type="submit" class="btn btn-primary">Save Changes</button>
     </form>
 </section>
-
