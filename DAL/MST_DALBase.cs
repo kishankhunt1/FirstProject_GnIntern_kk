@@ -140,6 +140,27 @@ namespace FirstProject.DAL
         }
         #endregion
 
+        #region Method: PR_Employee_Count_SelectAll_LineChart
+        public DataTable PR_Employee_Count_SelectAll_LineChart()
+        {
+            try
+            {
+                SqlDatabase sqlDB = new SqlDatabase(ConnectionString);
+                DbCommand dbCMD = sqlDB.GetStoredProcCommand("PR_Employee_Count_SelectAll_LineChart");
+                DataTable dt = new DataTable();
+                using (IDataReader dr = sqlDB.ExecuteReader(dbCMD))
+                {
+                    dt.Load(dr);
+                }
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+        }
+        #endregion
+
         #region Method: PR_EMP_ChartOfDepartmentByEmployee
         public DataTable PR_EMP_ChartOfDepartmentByEmployee()
         {

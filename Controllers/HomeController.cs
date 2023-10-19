@@ -20,6 +20,7 @@ namespace FirstProject.Controllers
             _logger = logger;
         }
 
+        #region Function: Dashboard
         public IActionResult Index()
         {
             DataTable dt1 = dalMST.PR_MST_CountryStateCityEmployeeDashboard();
@@ -37,7 +38,9 @@ namespace FirstProject.Controllers
 
             return View(viewModel);
         }
+        #endregion
 
+        #region Function: Bar Chart
         public IActionResult Chart()
         {
             DataTable dt = dalMST.PR_EMP_ChartOfDepartmentByEmployee();
@@ -53,10 +56,11 @@ namespace FirstProject.Controllers
                 }
                 dataList.Add(dataItem);
             }
-
             return View(dataList);
         }
+        #endregion
 
+        #region Function: Pie Chart
         public IActionResult PieChart()
         {
             DataTable dt = dalMST.PR_Employee_Count_SelectAll();
@@ -75,6 +79,30 @@ namespace FirstProject.Controllers
 
             return View(dataList);
         }
+        #endregion
+
+        #region Function: Line Chart
+        public IActionResult LineChart()
+        {
+            DataTable dt = dalMST.PR_Employee_Count_SelectAll_LineChart();
+
+            // Convert the DataTable to a list of dictionaries
+            var dataList = new List<Dictionary<string, object>>();
+            foreach (DataRow row in dt.Rows)
+            {
+                var dataItem = new Dictionary<string, object>();
+                foreach (DataColumn column in dt.Columns)
+                {
+                    dataItem[column.ColumnName] = row[column];
+                }
+                dataList.Add(dataItem);
+            }
+
+            return View(dataList);
+        }
+        
+
+        #endregion
 
         public IActionResult Privacy()
         {
